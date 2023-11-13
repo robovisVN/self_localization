@@ -13,8 +13,9 @@ $ catkin_make
 # Usage
 Run your robot simulation environment or real robot.
 ```
- # start localization node
+#start localization node
 $ rosrun self_localization self_localization_node
- # find the location of the robot
+
+#find the location of the robot
 $ rosservice call /StartLocalization
 ```
