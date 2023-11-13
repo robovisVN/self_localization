@@ -1,6 +1,6 @@
 # self_localization
 # Description
-This project was inspired by [Micvision Project](https://www.example.com), which provided by [tyuownu](https://github.com/tyuownu).
+This project was inspired by [Micvision Project](https://github.com/tyuownu/micvision), which provided by [tyuownu](https://github.com/tyuownu).
 It help localization the robot when you navigation but do not know where the robot is.
 # Install
 Download the project to your workspace and build
