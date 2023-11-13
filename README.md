@@ -19,3 +19,4 @@ $ rosrun self_localization self_localization_node
 #find the location of the robot
 $ rosservice call /StartLocalization
 ```
+[![Video](https://img.youtube.com/vi/D3hKsPmcZc8/maxresdefault.jpg)](https://www.youtube.com/watch?v=D3hKsPmcZc8)
